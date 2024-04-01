@@ -1,12 +1,11 @@
-# w2-codechallange
-
+# (ARRAY GENERATOR)
 
 #### Date, 2024/04/01
 
 #### By *Judah Luke Mumo*
 
 ## Description
-It's a webpage that contains a program that enables one to swap the cases of characters in a text to the opposite case.
+It's a webpage that contains a program that accepts two numbers to generate an array between them.
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
@@ -34,5 +33,3 @@ github.com/hadujeluk
 ### License
 The content of this site is licensed under the MIT license
 Copyright (c) 2018.
-
-
